@@ -1,4 +1,5 @@
 import cuid from 'cuid';
+// import './index.css';
 
 function validateName(name) {
   if (!name) {
