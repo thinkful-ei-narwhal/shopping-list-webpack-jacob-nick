@@ -1,4 +1,4 @@
-import {item } from './item';
+import item from './item';
 
 const items = [];
 const hideCheckedItems = false;

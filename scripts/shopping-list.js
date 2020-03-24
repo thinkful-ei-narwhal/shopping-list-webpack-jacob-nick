@@ -1,5 +1,5 @@
-import { store } from './store';
-import { item } from './item';
+import store from './store';
+import item from './item';
 import $ from 'jquery';
 
 const generateItemElement = function (item) {
